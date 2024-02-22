@@ -8,6 +8,9 @@
   * Links
     * Github
       * https://github.com/crifan/
+    * (Personal) Website
+      * https://www.crifan.org/
+        * old: https://www.crifan.com/
     * Books
       * https://github.com/crifan/crifan_ebook_readme
     * StackOverflow
