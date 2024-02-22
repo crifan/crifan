@@ -1,16 +1,19 @@
-### Hi there 👋
+# Crifan Li
 
-<!--
-**crifan/crifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Full details (in Chinese)
+  * https://www.crifan.org/about/
+* Core
+  * Links
+    * Github
+      * https://github.com/crifan/
+    * Books
+      * https://github.com/crifan/crifan_ebook_readme
+    * StackOverflow
+      * https://stackoverflow.com/users/1616263/crifan
+    * Play Spirit
+      * https://github.com/crifan/crifan_play_learn_logic_spirit
+  * Contact
+    * QQ Group: `104028266`
+    * Email: admin (at) crifan . com
+  * Donate
+    * https://www.crifan.org/donate_to_crifan/
