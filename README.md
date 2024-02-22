@@ -1,5 +1,7 @@
 # Crifan Li
 
+* Describe myself in one sentence: `a helpful software library`
+  * 一句话描述自己：**乐于助人的软件图书馆**
 * Full details (in Chinese)
   * https://www.crifan.org/about/
 * Core
